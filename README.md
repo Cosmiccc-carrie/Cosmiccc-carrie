@@ -1,5 +1,5 @@
-Hi, I’m Carrie.
-I’m interested in learning, enjoying nature, and pursuing self-growth.
+# Hi, I’m Carrie.
+## I’m interested in learning, enjoying nature, and pursuing self-growth.
 I’m currently learning to code. I started with HTML and CSS and am integrating the initial learning right now.
 <!--
 - I'm looking to collaborate on ...
